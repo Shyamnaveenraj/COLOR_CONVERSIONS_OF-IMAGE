@@ -28,8 +28,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 
-**Developed By:** Shyam Naveen Raj M <br>
-**Register Number:** 212221230099
+**Developed By:** THAMARAISELVAN V<br>
+**Register Number:** 212221230115
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ Anaconda - Python 3.7
 import cv2
 image=cv2.imread('japan.jpg')
 image=cv2.resize(image,(1290,720))
-cv2.imshow('Bairav Skandan Loha',image)
+cv2.imshow('Thamaraiselvan',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ``` 
@@ -49,7 +49,8 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
-![Screenshot 2024-02-15 203203](https://github.com/Janarthanan2/DIP_EX01_COLOR_CONVERSIONS_OF-IMAGE/assets/119393515/88f86204-cb22-4b72-94a5-af6a0aaff513)
+![image](https://github.com/EASWAR17/COLOR_CONVERSIONS_OF-IMAGE/assets/94154683/14db5b53-41c3-49fa-8c19-14d11fbbf206)
+
 
 
  
